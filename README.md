@@ -1,1 +1,1 @@
-# Data Bricks Integration Setup
+# Databricks Integration Setup
