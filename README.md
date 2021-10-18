@@ -1,1 +1,1 @@
-# DB_integration_setup
+# Data Bricks Integration Setup
